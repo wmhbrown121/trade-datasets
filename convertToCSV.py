@@ -5,7 +5,7 @@ import re
 import os
 
 
-directory = './Data/Stocks'
+directory = './Kaggle/Data/Stocks'
 files = os.listdir(directory)
 index = 0
 while index < 2:
